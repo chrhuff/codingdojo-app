@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00DD793D0D0B6C78913A7A4E2598D276EBCDE473" : 0,
+    "736E14A772802A51D82499F7F52ADFB555746C2F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "799814AC-D164-4230-A10E-885973D4B368",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00DD793D0D0B6C78913A7A4E2598D276EBCDE473" : "..",
+    "736E14A772802A51D82499F7F52ADFB555746C2F" : "..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Minesweeper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Minesweeper.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:chrhuff\/codingdojo-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00DD793D0D0B6C78913A7A4E2598D276EBCDE473"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chrhuff\/codingdojo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "736E14A772802A51D82499F7F52ADFB555746C2F"
+    }
+  ]
+}
